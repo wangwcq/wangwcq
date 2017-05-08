@@ -71,6 +71,9 @@ archive_generator:
   monthly: false
   daily: false
 
+about_widget_content: >
+  <p>王超奇 <br>15026541009</p>
+
 # hexo-admin authentification
 admin:
   username: wangwcq

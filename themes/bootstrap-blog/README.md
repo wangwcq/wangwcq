@@ -133,7 +133,7 @@ Usage:
 
 ~or~
 
-{% fancybox img_url [img_thumbnail] [img_caption] %}
+
 ```
 
 ### Callouts
